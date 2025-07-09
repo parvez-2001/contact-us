@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Merienda:wght@300..900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap");
+
+.gh {
+    height: 40px;
+}
+
+.head {
+    font-family: "Merienda", serif;
+    font-size: 50px;
+}
+
+h2 {
+    font-family: "Nunito Sans", serif;
+}
+
+.form-control::placeholder {
+    font-family: "Nunito Sans", serif;
+}
+.book{
+ /* padding: 45px 0px 0px 0px; */
+    /* align-items: center; */
+  /* height: 50px; */
+}
